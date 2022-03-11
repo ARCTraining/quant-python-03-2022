@@ -3,6 +3,8 @@ title: Setup
 ---
 
 > ## Data
+> Data for this workshop can be downloaded in Repl.it via the `setup.py` script. This step will be 
+> covered in the workshop.
 > Data for this lesson is from the
 > [Portal Project Teaching Database](https://figshare.com/articles/Portal_Project_Teaching_Database/1314459).
 > Specifically, we use the following eight data files:
@@ -22,19 +24,22 @@ title: Setup
 {: .prereq}
 
 
-> ## Installing Python using Anaconda
+> ## Using Repl.it
 >
 > [Python][python] is a popular language for scientific computing, and great for
 > general-purpose programming as well. Installing all of the scientific packages we use in the lesson
 > individually can be a bit cumbersome, and therefore recommend the all-in-one
-> installer [Anaconda][anaconda].
+> installer [Anaconda][anaconda] for installing Python locally. For today's session we'll use a browser-based
+> environment at [Repl.it](https://replit.com/~)
 >
 > Regardless of how you choose to install it, please make sure you install Python
-> version 3.x (e.g., 3.6 is fine).
+> version 3.x (e.g., 3.6 is fine). On Repl.it we'll be using Python 3.8.
 {: .prereq}
 
 
-## Installing Anaconda
+## Optional: Installing Anaconda
+
+You can install python on your own device using the Anaconda distribution which includes the conda package management system.
 
 {::options parse_block_html="true" /}
 <div>
