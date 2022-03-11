@@ -29,7 +29,8 @@ title: Setup
 > [Python][python] is a popular language for scientific computing, and great for
 > general-purpose programming as well. Installing all of the scientific packages we use in the lesson
 > individually can be a bit cumbersome, and therefore recommend the all-in-one
-> installer [Anaconda][anaconda] for installing Python locally. For today's session we'll use a browser-based
+> installer [Anaconda][anaconda] for installing Python locally. 
+> For today's session we'll use a browser-based
 > environment at [Repl.it](https://replit.com/~)
 >
 > Regardless of how you choose to install it, please make sure you install Python
